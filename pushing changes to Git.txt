@@ -1,9 +1,0 @@
-open git bash 
-
-cd "/d/3D prints/Wormbot"
-
-git add .
-
-git commit -am "describe your changes here"
-
-git push
